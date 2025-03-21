@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Alhaadii  
 
-![Profile Banner](https://github.com/Alhaadii/Alhaadii/blob/main/banner.png)  
+![Profile Banner](https://photos.google.com/photo/AF1QipN5HozjDWmEP7tkvQz9STBZ0c--YO1599GO5SVx)  
 
 ## 👀 About Me  
 I'm a **Full-Stack Developer** with a strong background in **web technologies, backend systems, and ERP solutions**. I’m passionate about **building scalable applications, customizing ERPNext**, and continuously learning new technologies.  
